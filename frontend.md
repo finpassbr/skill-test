@@ -10,9 +10,6 @@ Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas
 > - Temos os requisitos mínimos do projeto que precisam ser entregues. Tudo que for adicional, sendo bem feito, será contato. Qualquer dúvida entre em contato com a gente.
 
 
-----------
-
-
 O Problema
 -------------------
 
