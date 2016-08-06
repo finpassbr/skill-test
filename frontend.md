@@ -1,7 +1,7 @@
 Olá mestre desenvolvedor!
 ===================
 	
-Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas e construir coisas relevantes, e se você está lendo esse texto é porque você se identifica com isso. Antes de entrar em detalhes sobre seu desafio, temos algumas considerações. 
+Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas e criar coisas incríveis, se você está lendo esse texto é porque você se identifica com isso. Antes de entrar em detalhes sobre seu desafio, temos algumas considerações. 
 
 > **Vá com calma e observe cada detalhe:**
 
