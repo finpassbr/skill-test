@@ -31,8 +31,7 @@ Instruções
 O projeto **deve ser entregue em um repositório GIT** com instruções de como rodá-lo (garanta que essas instruções estejam corretas e claras). 
 
 O backend já está pronto, ou seja, os endpoints das APIs estão disponíveis. 
-* http://demo1183916.mockable.io/anuncio (GET)
-* http://demo1183916.mockable.io/anuncio (POST) 
+* http://demo1183916.mockable.io/anuncio (GET) e (POST)
 
 Obs: para o post será necessário passar o header authentication com o valor de "egeniusfounders2016" (como esse endpoint é mock, o retorno será apenas um 200, ou seja, fique livre para trabalhar os dados localmente local storage ou em memória). 
 
