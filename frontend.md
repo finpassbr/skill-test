@@ -19,7 +19,7 @@ Requisitos
 -------------------
 
 O gerente de tecnologia tem essas premissas como base:
-> - AngularJS (modularizado)
+> - AngularJS - Angular - React - Vue (modularizado)
 > - Layout Responsivo
 > - SASS ou LESS (modularizado)
 > - Tarefas de build automatizadas (Grunt, Gulp, Webpack, etc)
@@ -35,4 +35,4 @@ O backend já está pronto, ou seja, os endpoints das APIs estão disponíveis.
 
 Obs: para o post será necessário passar o header authentication com o valor de "egeniusfounders2016" (como esse endpoint é mock, o retorno será apenas um 200, ou seja, fique livre para trabalhar os dados localmente local storage ou em memória). 
 
-> **Importante:** Ao concluir, envie o link do repositório para o email [ti@fdex.com.br](ti@fdex.com.br) e entraremos em contato assim que possível, obrigado e boa diversão!
+> **Importante:** Ao concluir, envie o link do repositório para o email [ti@finpass.com.br](ti@finpass.com.br) e entraremos em contato assim que possível, obrigado e boa diversão!
