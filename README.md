@@ -8,7 +8,7 @@ Se você chegou até aqui foi porque tem sede de construir coisas incríveis. Po
 
 ## Desafios diponíveis
 
-1. [Front-end engineer](https://github.com/fdexfinancing/skill-test/blob/master/frontend.md)
-2. [Back-end/Devops](https://github.com/fdexfinancing/skill-test/blob/master/backend-devops.md)
+1. [Front-end engineer](https://github.com/finpassbr/skill-test/blob/master/frontend.md)
+2. [Back-end/Devops](https://github.com/finpassbr/skill-test/blob/master/backend-devops.md)
 
-Powered by [f(x)](https://www.fdex.com.br)
+Powered by [finpass](https://www.finpass.com.br)
