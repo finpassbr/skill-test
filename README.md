@@ -9,6 +9,6 @@ Se você chegou até aqui foi porque tem sede de construir coisas incríveis. Po
 ## Desafios diponíveis
 
 1. [Front-end engineer](https://github.com/finpassbr/skill-test/blob/master/frontend.md)
-2. [Back-end/Devops](https://github.com/finpassbr/skill-test/blob/master/backend-devops.md)
+2. [Back-end](https://github.com/finpassbr/skill-test/blob/master/backend-devops.md)
 
 Powered by [finpass](https://www.finpass.com.br)
