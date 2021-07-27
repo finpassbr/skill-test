@@ -1,4 +1,4 @@
-Olá mestre desenvolvedor!
+Olá!
 ===================
 	
 Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas e criar coisas incríveis, se você está lendo esse texto é porque você se identifica com isso. Antes de entrar em detalhes sobre seu desafio, temos algumas considerações. 
