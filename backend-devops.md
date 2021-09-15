@@ -6,9 +6,9 @@ Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas
 
 Vá com calma e observe cada detalhe:
 -------
-> Vamos analisar a qualidade do seu código, então se preocupe em fazer um código limpo e de fácil entendimento, utilize design patterns quando necessário e evite fazer códigos que só você entende.
-> Buscamos pessoas com perfil diferenciado, não se limite ao escopo do projeto. Se você for além em coisas simples como o teste, com certeza irá além na hora de criar soluções para o mercado.
-> Temos os requisitos mínimos do projeto que precisam ser entregues. Tudo que for adicional, sendo bem feito, será contado. Qualquer dúvida entre em contato com a gente.
+> - Vamos analisar a qualidade do seu código, então se preocupe em fazer um código limpo e de fácil entendimento, utilize design patterns quando necessário e evite fazer códigos que só você entende.
+> - Buscamos pessoas com perfil diferenciado, não se limite ao escopo do projeto. Se você for além em coisas simples como o teste, com certeza irá além na hora de criar soluções para o mercado.
+> - Temos os requisitos mínimos do projeto que precisam ser entregues. Tudo que for adicional, sendo bem feito, será contado. Qualquer dúvida entre em contato com a gente.
 
 O Problema
 -----
@@ -18,10 +18,10 @@ Requisitos
 -----
 O gerente de tecnologia tem essas premissas como base:
 
-> Tarefas de build automatizadas
-> Testes unitários (parcialmente) *Seria muito interessante
-> Linguagem do do backend a sua escolha
-> Utilizar docker ou enviar instruções claras de como rodar a API.
+> - Tarefas de build automatizadas
+> - Testes unitários (parcialmente) *Seria muito interessante
+> - Linguagem do do backend a sua escolha
+> - Utilizar docker ou enviar instruções claras de como rodar a API.
 
 Instruções
 -----
