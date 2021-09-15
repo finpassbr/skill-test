@@ -13,7 +13,7 @@ Estamos ansiosos para ver o que você consegue construir. Acreditamos em pessoas
 O Problema
 -------------------
 
-Imagine que um cliente peça para você desenvolver uma aplicação web, responsiva de uma determinada imobiliária chamada FdexImoveis. Ele gostaria de ter uma área para listar imóveis, outra para adicionar um novo imóvel e também ver os detalhes de um imóvel selecionado. Como requisito ele quer uma garantia de que os dados vão ser enviados corretamente para o banco de dados. Ele quer que a aplicação tenha um layout agradável e simples e está delegando para você essa atividade. 
+Imagine que um cliente peça para você desenvolver uma aplicação web, responsiva de uma determinada imobiliária chamada Finpass Imóveis. Ele gostaria de ter uma área para listar imóveis, outra para adicionar um novo imóvel e também ver os detalhes de um imóvel selecionado. Como requisito ele quer uma garantia de que os dados vão ser enviados corretamente para o banco de dados. Ele quer que a aplicação tenha um layout agradável e simples e está delegando para você essa atividade. 
 
 Requisitos
 -------------------
