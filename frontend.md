@@ -31,7 +31,28 @@ Instruções
 O projeto **deve ser entregue em um repositório GIT** com instruções de como rodá-lo (garanta que essas instruções estejam corretas e claras). 
 
 O backend já está pronto, ou seja, os endpoints das APIs estão disponíveis. 
-* http://demo1183916.mockable.io/anuncio (GET) e (POST)
+* https://api.sheety.co/20e6e67423392ddd3f7dc9eaf5caed47/api/imovel (GET) e (POST)
+
+Exemplo de requisição POST para cadastro de um imóvel:
+
+```json
+{
+  "imovel": {
+    "titulo": "Apartamento com 2 Quartos à venda, 74m² - Brooklin\n",
+    "descricao": "Casa bacana",
+    "fotoCapa": "https://resizedimgs.zapimoveis.com.br/fit-in/800x360/named.images.sp/49f05d370fac3373fab5e87107bde961/apartamento-com-2-quartos-a-venda-74m-no-brooklin-sao-paulo.jpg",
+    "cep": "",
+    "rua": "Rua Nicolau Barreto",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "numero": 614,
+    "valorAlguel": "",
+    "valorCompra": 1325000,
+    "id": 2
+  }
+}
+```
 
 Obs: para o post será necessário passar o header authentication com o valor de "egeniusfounders2016" (como esse endpoint é mock, o retorno será apenas um 200, ou seja, fique livre para trabalhar os dados localmente local storage ou em memória). 
 
