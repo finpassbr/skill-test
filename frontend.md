@@ -54,6 +54,4 @@ Exemplo de requisição POST para cadastro de um imóvel:
 }
 ```
 
-Obs: para o post será necessário passar o header authentication com o valor de "egeniusfounders2016" (como esse endpoint é mock, o retorno será apenas um 200, ou seja, fique livre para trabalhar os dados localmente local storage ou em memória). 
-
 > **Importante:** Ao concluir, envie o link do repositório para o email [ti@finpass.com.br](ti@finpass.com.br) e entraremos em contato assim que possível, obrigado e boa diversão!
